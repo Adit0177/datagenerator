@@ -1,5 +1,5 @@
 {
-  "name": "givemedata",
+  "name": "data-to-play",
   "version": "1.0.0",
   "description": "A package to generate random data similar in structure to data we get from Api's",
   "main": "dataGenerator.js",
