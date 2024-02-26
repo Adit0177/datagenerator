@@ -1,0 +1,14 @@
+{
+  "name": "givemedata",
+  "version": "1.0.0",
+  "description": "A package to generate random data similar in structure to data we get from Api's",
+  "main": "dataGenerator.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Adit Thapliyal",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.1.11"
+  }
+}
